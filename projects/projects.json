@@ -2,6 +2,18 @@
   "featured": "YouTube on PS3",
   "projects": [
     {
+      "name": "FirePoker.io",
+      "thumb": "firepoker/thumb.png",
+      "desc": "",
+      "url": "http://firepoker.io/",
+      "info": "http://firepoker.io/",
+      "submitter": "evert0n",
+      "submissionDate": "2013-10-22",
+      "tags": [
+        "Productivity", "Firebase", "Planning Poker", "Agile"
+      ]
+    },
+    {
       "name": "Fitblok",
       "thumb": "fitblok/thumb.png",
       "desc": "Fitblok is a One-Page Web app, which provides users with a gym-like experience and enables fitness trainers to develop their own following.",
